@@ -1,0 +1,7 @@
+Hello!
+
+These are some of my projects that I have programed while being a student at Grand Valley State University!
+They are split by language, and the most recent project will be in all CAPS.
+The project files will be located in the src folder in each project as these were taken right from Github or the IDE.
+
+Thank you for viewing my work and for your time and consideration! 
