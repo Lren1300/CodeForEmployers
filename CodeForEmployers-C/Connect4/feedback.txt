@@ -1,0 +1,16 @@
+Nice work on a tough project.
+
+See notes in the .c files.
+
+One thing to fix:  Don't duplicate your if/else blocks in main game loop.
+(Fixing it now will save you time in later projects)
+
+(m)
+==============
+Impressively thorough tests. (m)
+
+Do all of your horizontal and vertical tests begin from the same place?
+(Is the winning streak always anchored to the bottom or left?)
+If so, a little variation would make the tests even stronger.
+
+Do you have any tests that give invalid input (e.g., try to overfill a column?)

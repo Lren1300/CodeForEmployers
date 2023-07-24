@@ -1,0 +1,2 @@
+This folder is comprised of various mini projects / assignments from my Data Structures and Algorithms class. 
+Most of them are just the dat structures we learned in class coded in the language of our choice.

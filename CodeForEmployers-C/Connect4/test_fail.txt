@@ -1,0 +1,6 @@
+a. The fail was due to a previous version of our test code being submitted on accident. 
+   We have had some git problems between the two of us but have since figured it out.
+
+b. We updated the test code so it was to the current, working version without the bugged tests
+
+c. In the future, instead of just fixing the code files mistakes from the git miss-hap, we should check all files, including the tests.
