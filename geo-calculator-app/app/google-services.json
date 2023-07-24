@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "927816323876",
+    "project_id": "cis357-hw4-b2fe5",
+    "storage_bucket": "cis357-hw4-b2fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927816323876:android:037e91b647f58abbf259b1",
+        "android_client_info": {
+          "package_name": "edu.gvsu.cis.androidgeocalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927816323876-ogoi9uk76k8l3l0dq16emens3hhl6veh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjJUezk-80PEF1WbZHbzf6dYCc320CvQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927816323876-ogoi9uk76k8l3l0dq16emens3hhl6veh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927816323876-o4l4rjm4a2n48em024vbhu2gh2rua89g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.gvsu.cis.GeoCalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
